@@ -8,31 +8,28 @@
 <style type="text/css">
 body {
 	width: 1050px;
-	height: 700px;
 }
 
 header {
 	width: 1000px;
-	height: 100px;
 	border: 1px solid black;
 }
 
 aside {
 	width: 300px;
-	height: 500px;
+	height: 200px;
 	float: left;
 	border: 1px solid black;
 }
 
 section {
 	width: 700px;
-	height: 500px;
+	height: 200px;
 	float: left;
 	border: 1px solid black;
 }
 
 footer {
-	height: 100px;
 	width: 1000px;
 	clear: both;
 	border: 1px solid black;
